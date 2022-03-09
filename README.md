@@ -1,4 +1,4 @@
-# PSMSublic Service Monitoring System (PSMS)
+# Public Service Monitoring System (PSMS)
 
 **click here:** https://rj190.github.io/psms.github.io/
 
